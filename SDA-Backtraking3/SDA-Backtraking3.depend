@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1690876906 source:c:\users\user\desktop\sda-backtraking3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1690876906 source:c:\users\user\desktop\sda-tot\backtraking\sda-backtraking3\main.c
+	<stdio.h>
+	<stdlib.h>
+
