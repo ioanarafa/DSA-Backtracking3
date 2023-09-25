@@ -7,6 +7,6 @@ Definition: Backtracking is an algorithmic technique for solving problems recurs
 Problem backtracking3 :Generate, display and count all solutions: all strings formed by the first k lowercase letters of length n.
 
   example: n= 3, k= 3
-//aba
-//ccc
-//abc
+   //aba
+   //ccc
+   //abc
