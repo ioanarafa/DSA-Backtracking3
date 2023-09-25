@@ -8,4 +8,4 @@ Problem backtracking3 :Generate, display and count all solutions: all strings fo
   example: n= 3, k= 3
 //aba
 //ccc
-//a B C
+//abc
